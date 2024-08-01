@@ -1,0 +1,22 @@
+superuser/admin details (also a manager)
+username: lemontime
+password: lemontimepassword
+token: 0c506d7ca7b3eff63c7b5ba18da5acb0ed752791
+
+other users (password is namepassword)
+
+managers:
+annie f97dd39529f08b5a30a50d0d4015561f42f5938a
+jackson 3b45bc8da1b5a577051df9bf8ac8d4150d3a219b
+
+delivery crew:
+george 7f5019486896244a0a204258a2c53548fa3e9436
+fred e1ba1786ce7c70df374b5c9011da9da4316bbf30
+
+customer (no role):
+bob 2c0fdf7bd77c8ba960e05ea104babe612c8823f6
+john 686fda66ba08ec9c14c1571a5db502d6bb305bd8
+joe
+mahmood
+
+you can try it with Insomnia Auth Bearer with the corresponding token and prefix "Token"
